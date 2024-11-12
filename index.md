@@ -1,4 +1,4 @@
-# Bowfolios
+# Spots
 
 ## Table of contents
 
@@ -16,13 +16,13 @@ To use the application, students must create an account and set up their profile
 
 ### Mockup Page Ideas:
 
-Profile Page: Users can input their preferences for study spaces and it can showcase personal history or study stats. 
-Home Page: Overview of study spaces for popular spots or recently visited locations based on proximity to the user.
-Map Page: Interactive map to show real-time availability and how far away study locations are from the user.
-Spot Details: Individual pages for each spot with detailed information (ex. description, photos, reviews, capacity, amenities, noise levels, parking, ect.)
-Favorites: Users can save their favorite study spots and it can suggest new study spots based on their favorites.
-New Spot Page: Allow users to add new spots that they find and input location details.
+* Profile Page: Users can input their preferences for study spaces and it can showcase personal history or study stats. 
+* Home Page: Overview of study spaces for popular spots or recently visited locations based on proximity to the user.
+* Map Page: Interactive map to show real-time availability and how far away study locations are from the user.
+* Spot Details: Individual pages for each spot with detailed information (ex. description, photos, reviews, capacity, amenities, noise levels, parking, ect.)
+* Favorites: Users can save their favorite study spots and it can suggest new study spots based on their favorites.
+* New Spot Page: Allow users to add new spots that they find and input location details.
 
 ## Team
 
-BowFolios is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).
+Spots is designed, implemented, and maintained by [Rylee Au](https://ryleeau.github.io), [Zelda Cole](https://zeldaco.github.io), [Arissa Dang](https://arissadang.github.io/)and [Diana Reis](https://dianathreis.github.io/).
