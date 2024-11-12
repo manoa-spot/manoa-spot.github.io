@@ -23,6 +23,8 @@ To use the application, students must create an account and set up their profile
 * Favorites: Users can save their favorite study spots and it can suggest new study spots based on their favorites.
 * New Spot Page: Allow users to add new spots that they find and input location details.
 
+![Yelp Page](images/yelp.png)
+
 ## Team
 
 Spots is designed, implemented, and maintained by [Rylee Au](https://ryleeau.github.io), [Zelda Cole](https://zeldaco.github.io), [Arissa Dang](https://arissadang.github.io/), and [Diana Reis](https://dianathreis.github.io/).
