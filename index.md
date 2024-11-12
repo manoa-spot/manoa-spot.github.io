@@ -5,6 +5,7 @@
 * [Overview](#overview)
 * [Approach](#approach)
 * [Mockup Page Ideas](#mockup-page-ideas)
+* [Team Contract] (#team-contract)
 
 ## Overview
 
@@ -31,7 +32,7 @@ Users can use filters to apply to their searches to filter their search results.
 
 ![](images/airbnb.png)
 
-## Team Coontract 
+## Team Contract 
 
 [Click here!] (https://docs.google.com/document/d/1qr-8XbC5mJwhmVOqp7jBJMfaa8kXPuwWPiLqjrGsctY/edit?usp=sharing)
 
