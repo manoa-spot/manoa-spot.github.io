@@ -24,7 +24,7 @@ To use the application, students must create an account and set up their profile
 * New Spot Page: Allow users to add new spots that they find and input location details.
 
 ![](images/yelp.png)
-
+![](images/airbnb.png)
 
 ## Team
 
