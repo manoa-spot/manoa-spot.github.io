@@ -31,7 +31,9 @@ Users can use filters to apply to their searches to filter their search results.
 
 ![](images/airbnb.png)
 
-## Deployment
+## Team Coontract 
+
+[Click here!] (https://docs.google.com/document/d/1qr-8XbC5mJwhmVOqp7jBJMfaa8kXPuwWPiLqjrGsctY/edit?usp=sharing)
 
 ## Team
 
