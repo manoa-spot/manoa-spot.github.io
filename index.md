@@ -23,7 +23,7 @@ To use the application, students must create an account and set up their profile
 * Favorites: Users can save their favorite study spots and it can suggest new study spots based on their favorites.
 * New Spot Page: Allow users to add new spots that they find and input location details.
 
-![Yelp Page](images/yelp.png)
+![Yelp Page](./images/yelp.png)
 
 ## Team
 
