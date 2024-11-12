@@ -14,7 +14,7 @@ As college students, we share the struggle of finding a nice spot to study, hang
 
 To use the application, students must create an account and set up their profiles. With these profiles, students can list their major, courses, year, and interests so that it’s easier to find those with similarities. There could also be a friend/following system that will help students to build trust and friendship with one another. Users must use their hawaii.edu email addresses to confirm that they are students at UH for safety concerns. In order to find the optimal study spots, there could be a map of cafe locations, as well as a rating system for each spot that gives the details on volume levels, seating, ambiance, hours, and general ideas of how “study friendly” the areas are.
 
-### Mockup Page Ideas:
+## Mockup Page Ideas:
 
 * Profile Page: Users can input their preferences for study spaces and it can showcase personal history or study stats. 
 * Home Page: Overview of study spaces for popular spots or recently visited locations based on proximity to the user.
