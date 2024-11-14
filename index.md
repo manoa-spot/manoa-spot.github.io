@@ -18,11 +18,11 @@ To use the application, students must create an account and set up their profile
 ## Mockup Page Ideas:
 
 * **Profile Page**: Users can input their preferences for study spaces and it can showcase personal history or study stats.
-<img src="images/profilemockup.png" width="300" />
+<img src="images/profilemockup.png" width="500" />
 * **Home/Landing Page**: Overview of trending study spots or recently visited locations based on proximity to the user.
-<img src="images/spotslandingpage.png" width="300" />
+<img src="images/spotslandingpage.png" width="500" />
 * Map Page: Interactive map to show real-time availability and how far away study locations are from the user.
-<img src="images/spotsmap.png" width="300" />
+<img src="images/spotsmap.png" width="500" />
 * Spot Details: Individual pages for each spot with detailed information (ex. description, photos, reviews, capacity, amenities, noise levels, parking, ect.)
 * Favorites: Users can save their favorite study spots and it can suggest new study spots based on their favorites.
 * New Spot Page: Allow users/vendors to add new spots that they find and input location details.
