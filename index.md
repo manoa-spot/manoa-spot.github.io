@@ -1,11 +1,16 @@
 # Spots
 
+## Team Contract
+
+[Click here!](https://docs.google.com/document/d/1qr-8XbC5mJwhmVOqp7jBJMfaa8kXPuwWPiLqjrGsctY/edit?usp=sharing)
+
 ## Table of contents
 
 * [Overview](#overview)
 * [Approach](#approach)
 * [Mockup Page Ideas](#mockup-page-ideas)
 * [Team Contract](#team-contract)
+* [Deployment](#deployment)
 
 ## Overview
 
@@ -35,9 +40,9 @@ Users can use filters to apply to their searches to filter their search results.
 
 ![](images/airbnb.png)
 
-## Team Contract 
+## Deployment
 
-[Click here!](https://docs.google.com/document/d/1qr-8XbC5mJwhmVOqp7jBJMfaa8kXPuwWPiLqjrGsctY/edit?usp=sharing)
+[Click here!](https://manoa-spots-beta.vercel.app/)
 
 ## Team
 
