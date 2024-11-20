@@ -1,4 +1,6 @@
-# Spots
+---
+layout: default
+---
 
 ### [Deployment](https://manoa-spots-beta.vercel.app/)
 
