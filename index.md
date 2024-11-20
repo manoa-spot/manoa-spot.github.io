@@ -7,7 +7,6 @@ layout: default
 * [Overview](#overview)
 * [Approach](#approach)
 * [Mockup Page Ideas](#mockup-page-ideas)
-* [Team Contract](#team-contract)
 
 ## Overview
 
