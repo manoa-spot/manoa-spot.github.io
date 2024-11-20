@@ -1,8 +1,8 @@
 # Spots
 
-## Team Contract
+### [Deployment](https://manoa-spots-beta.vercel.app/)
 
-[Click here!](https://docs.google.com/document/d/1qr-8XbC5mJwhmVOqp7jBJMfaa8kXPuwWPiLqjrGsctY/edit?usp=sharing)
+### [Team Contract](https://docs.google.com/document/d/1qr-8XbC5mJwhmVOqp7jBJMfaa8kXPuwWPiLqjrGsctY/edit?usp=sharing)
 
 ## Table of contents
 
@@ -10,7 +10,6 @@
 * [Approach](#approach)
 * [Mockup Page Ideas](#mockup-page-ideas)
 * [Team Contract](#team-contract)
-* [Deployment](#deployment)
 
 ## Overview
 
@@ -39,10 +38,6 @@ Utilize map pages to show spots in close proximity to users.
 Users can use filters to apply to their searches to filter their search results.
 
 ![](images/airbnb.png)
-
-## Deployment
-
-[Click here!](https://manoa-spots-beta.vercel.app/)
 
 ## Team
 
