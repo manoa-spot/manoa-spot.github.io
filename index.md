@@ -2,7 +2,12 @@
 layout: default
 ---
 
-[Deployment](https://manoa-spots-beta.vercel.app/)    [Team Contract](https://docs.google.com/document/d/1qr-8XbC5mJwhmVOqp7jBJMfaa8kXPuwWPiLqjrGsctY/edit?usp=sharing)    [M1](https://github.com/orgs/manoa-spots/projects/1)    [M2](https://github.com/orgs/manoa-spots/projects/2/views/1)
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <a href="https://manoa-spots-beta.vercel.app/">Deployment</a>
+  <a href="https://docs.google.com/document/d/1qr-8XbC5mJwhmVOqp7jBJMfaa8kXPuwWPiLqjrGsctY/edit?usp=sharing">Team Contract</a>
+  <a href="https://github.com/orgs/manoa-spots/projects/1">M1</a>
+  <a href="https://github.com/orgs/manoa-spots/projects/2/views/1">M2</a>
+</div>
 
 ## Table of contents
 
