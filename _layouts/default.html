@@ -23,10 +23,12 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p href="https://manoa-spots-beta.vercel.app/">Deployment</p>
-        <p href="https://docs.google.com/document/d/1qr-8XbC5mJwhmVOqp7jBJMfaa8kXPuwWPiLqjrGsctY/edit?usp=sharing">Team Contract</p>
-        <p href="https://github.com/orgs/manoa-spots/projects/1">M1</p>
-        <p href="https://github.com/orgs/manoa-spots/projects/2/views/1">M2</p>
+        <p class="view">
+          <a href="https://manoa-spots-beta.vercel.app/">Deployment</a>
+          <a href="https://docs.google.com/document/d/1qr-8XbC5mJwhmVOqp7jBJMfaa8kXPuwWPiLqjrGsctY/edit?usp=sharing">Team Contract</a>
+          <a href="https://github.com/orgs/manoa-spots/projects/1">M1</a>
+          <a href="https://github.com/orgs/manoa-spots/projects/2/views/1">M2</a>
+        </p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
