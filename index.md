@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div style="display: flex; gap: 50px; justify-content: center;">
   <a href="https://manoa-spots-beta.vercel.app/">Deployment</a>
   <a href="https://docs.google.com/document/d/1qr-8XbC5mJwhmVOqp7jBJMfaa8kXPuwWPiLqjrGsctY/edit?usp=sharing">Team Contract</a>
   <a href="https://github.com/orgs/manoa-spots/projects/1">M1</a>
