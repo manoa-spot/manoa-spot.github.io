@@ -1,8 +1,6 @@
-
 title: [Spots]
 description: [Find your perfect spot with Spots.]
-github_repo: "github_repo: "https://github.com/your-username/your-repository-name" # Your GitHub repo link
-" # Your GitHub repo link
+github_repo: "https://github.com/manoa-spots/manoa-spots"
 
 
 remote_theme: pages-themes/minimal@v0.2.0
