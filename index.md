@@ -51,7 +51,7 @@ Users can use filters to apply to their searches to filter their search results.
 
 ### Sign-up Page
 
-
+<img src="images/signup.png" width="500" />
 
 ### Profile Page
 
