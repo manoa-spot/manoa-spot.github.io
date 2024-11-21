@@ -7,6 +7,7 @@ layout: default
 * [Overview](#overview)
 * [Approach](#approach)
 * [Mockup Page Ideas](#mockup-page-ideas)
+* [Milestones](#milestones)
 
 ## Overview
 
@@ -48,6 +49,10 @@ Users can use filters to apply to their searches to filter their search results.
 ### Sign-in Page
 
 <img src="images/sign-in-page.png" width="500" />
+
+### Profile Page
+
+<img src="images/profilepage.png" width="500" />
 
 [Milestone 2](https://github.com/orgs/manoa-spots/projects/4)
 
