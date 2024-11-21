@@ -30,7 +30,7 @@ To use the application, students must create an account and set up their profile
 
 Utilize map pages to show spots in close proximity to users.
 
-![](images/yelp.png)
+
 
 Users can use filters to apply to their searches to filter their search results.
 
@@ -40,6 +40,15 @@ Users can use filters to apply to their searches to filter their search results.
 ## Milestones
 
 [Milestone 1](https://github.com/orgs/manoa-spots/projects/1)
+
+### Landing Page
+
+<img src="images/landing-page.png" width="500" />
+
+### Sign-in Page
+
+<img src="images/sign-in-page.png" width="500" />
+
 [Milestone 2](https://github.com/orgs/manoa-spots/projects/4)
 
 ## Team
