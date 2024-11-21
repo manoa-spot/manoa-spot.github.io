@@ -7,7 +7,8 @@ layout: default
 * [Overview](#overview)
 * [Approach](#approach)
 * [Mockup Page Ideas](#mockup-page-ideas)
-* [Milestones](#milestones)
+* [Milestone 1](#milestone-1)
+* [Milestone 2](#milestone-2)
 
 ## Overview
 
@@ -38,9 +39,7 @@ Users can use filters to apply to their searches to filter their search results.
 ![](images/airbnb.png)
 
 
-## Milestones
-
-[Milestone 1](https://github.com/orgs/manoa-spots/projects/1)
+## [Milestone 1](https://github.com/orgs/manoa-spots/projects/1)
 
 ### Landing Page
 
@@ -54,7 +53,7 @@ Users can use filters to apply to their searches to filter their search results.
 
 <img src="images/profilepage.png" width="500" />
 
-[Milestone 2](https://github.com/orgs/manoa-spots/projects/4)
+## [Milestone 2](https://github.com/orgs/manoa-spots/projects/2)
 
 ## Team
 
