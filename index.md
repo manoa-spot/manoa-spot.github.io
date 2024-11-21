@@ -49,6 +49,10 @@ Users can use filters to apply to their searches to filter their search results.
 
 <img src="images/sign-in-page.png" width="500" />
 
+### Sign-up Page
+
+
+
 ### Profile Page
 
 <img src="images/profilepage.png" width="500" />
