@@ -58,6 +58,10 @@ Users can use filters to apply to their searches to filter their search results.
 
 <img src="images/profilepage.png" width="500" />
 
+### Favorite Spots Page
+
+<img src="images/favorite-spots.png" width="500" />
+
 ## [Milestone 2](https://github.com/orgs/manoa-spots/projects/2)
 ## [Milestone 3](https://github.com/orgs/manoa-spots/projects/5)
 
