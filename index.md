@@ -65,6 +65,9 @@ Users can use filters to apply to their searches to filter their search results.
 ## [Milestone 2](https://github.com/orgs/manoa-spots/projects/2)
 ## [Milestone 3](https://github.com/orgs/manoa-spots/projects/5)
 
+## ER Diagram
+<img src="images/IMG_0718.jpg" width="500" />
+
 ## Team
 
 Spots is designed, implemented, and maintained by [Rylee Au](https://ryleeau.github.io), [Zelda Cole](https://zeldaco.github.io), [Arissa Dang](https://arissadang.github.io/), and [Diana Reis](https://dianathreis.github.io/).
