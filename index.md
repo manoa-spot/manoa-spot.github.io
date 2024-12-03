@@ -31,20 +31,24 @@ To use the application, students must create an account and set up their profile
 * Favorites: Users can save their favorite study spots and it can suggest new study spots based on their favorites.
 * New Spot Page: Allow users/vendors to add new spots that they find and input location details.
 
-Utilize map pages to show spots in close proximity to users.
-
-
-
-Users can use filters to apply to their searches to filter their search results.
-
-![](images/airbnb.png)
-
-
 ## [Milestone 1](https://github.com/orgs/manoa-spots/projects/1)
+## [Milestone 2](https://github.com/orgs/manoa-spots/projects/2)
 
 ### Landing Page
 
-<img src="images/landing-page.png" width="500" />
+<img src="images/home-page.png" width="500" />
+
+### Add a Spot Page
+
+users can add their favorite spots onto the app for others to discover with the "add spot" page.
+
+<img src="images/add-spot.png" width="500" />
+
+<img src="images/add-spot-2.png" width="500" />
+
+this updates the spot database and the newly added spots can now be found through searches and on featured spot pages.
+
+<img src="images/home-page-2.png" width="500" />
 
 ### Sign-in Page
 
@@ -56,7 +60,7 @@ Users can use filters to apply to their searches to filter their search results.
 
 ### Profile Page
 
-<img src="images/profilepage.png" width="500" />
+<img src="images/profile.png" width="500" />
 
 ### Favorite Spots Page
 
