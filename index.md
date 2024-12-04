@@ -29,6 +29,8 @@ To use the application, students must create an account and set up their profile
 <img src="images/spotslandingpage.png" width="500" />
 * Map Page: Interactive map to show real-time availability and how far away study locations are from the user.
 <img src="images/spotsmap.png" width="500" />
+* Search Page: Returns spots that match an inputted text to search inquiry, as well as advanced search options through filters based on spot amenities.
+  
 * Spot Details: Individual pages for each spot with detailed information (ex. description, photos, reviews, capacity, amenities, noise levels, parking, ect.)
 * Favorites: Users can save their favorite study spots and it can suggest new study spots based on their favorites.
 * New Spot Page: Allow users/vendors to add new spots that they find and input location details.
