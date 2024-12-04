@@ -10,6 +10,8 @@ layout: default
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Milestone 3](#milestone-3)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 
 ## Overview
 
@@ -66,8 +68,35 @@ this updates the spot database and the newly added spots can now be found throug
 
 <img src="images/favorite-spots.png" width="500" />
 
-## [Milestone 2](https://github.com/orgs/manoa-spots/projects/2)
 ## [Milestone 3](https://github.com/orgs/manoa-spots/projects/5)
+
+## User Guide
+1. Begin at the landing page, and either sign up or sign in to access Spots. 
+<p float="left">
+  <img src="images/home-page.png" width="300" />
+  <img src="images/signup.png" width="350" /> 
+  <img src="images/sign-in-page.png" width="350" />
+</p>
+2. Once you're logged in, you can view recommended spots based off your interests and preferences.
+  <img src="images/home-page-2.png" width="350" />
+3. If you have a Spot you'd like to share with the community, navigate to "add spot" and add your spot. 
+<img src="images/add-spot.png" width="350" />
+4. Click on "favorites" to view your favorites.
+<img src="images/favorite-spots.png" width="350" />
+5. Click on "advanced search" to filter search for specific spots.
+
+## Developer Guide
+1. Copy the repo to Github Desktop.
+2. Open in VSCode, and run
+```
+npm install.
+```
+3. Enter 
+```
+npm run dev
+```
+to run the website locally.
+4. Once any changes are made, commit to Github and see the changes on Vercel.
 
 ## ER Diagram
 <img src="images/IMG_0718.jpg" width="500" />
