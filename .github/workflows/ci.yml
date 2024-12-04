@@ -1,4 +1,4 @@
-name: manoa-spots
+name: ci-meteor-application-template-react
 
 on:
   push:
@@ -15,32 +15,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Check out the code
       - uses: actions/checkout@v3
 
-      # Cache Node.js dependencies
       - name: Cache node modules
         uses: actions/cache@v3
+        env:
+          cache-name: cache-node-modules
         with:
           path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
+          key: ${{ runner.os }}-build-v5-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
 
-      # Set up Node.js environment
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - uses: actions/setup-node@v3
         with:
           node-version: '16.x'
 
-      # Install dependencies
-      - name: Install dependencies
-        run: npm ci
+      - run: npm ci --legacy-peer-deps
 
-      # Run linting
-      - name: Run linting
-        run: npm run lint
+      - run: curl https://install.meteor.com/ | sh
 
-      # Run tests
-      - name: Run tests
-        run: npm test
+      - name: Run Meteor commands
+        shell: bash -l {0}
+        run: |
+          meteor npm install
+          meteor npm run lint
+#          meteor npm run testcafe-ci
