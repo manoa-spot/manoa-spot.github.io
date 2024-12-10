@@ -103,9 +103,6 @@ npm run dev
 to run the website locally.
 4. Once any changes are made, commit to Github and see the changes on Vercel.
 
-## ER Diagram
-<img src="images/IMG_0718.jpg" width="500" />
-
 ## Team
 
 Spots is designed, implemented, and maintained by [Rylee Au](https://ryleeau.github.io), [Zelda Cole](https://zeldaco.github.io), [Arissa Dang](https://arissadang.github.io/), and [Diana Reis](https://dianathreis.github.io/).
