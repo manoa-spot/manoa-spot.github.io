@@ -81,7 +81,9 @@ Returns spots that match an inputted text to search inquiry, as well as advanced
 
 Reviewer 1: She stated that she liked the aesthetic and color scheme of the website. She suggested placing the parking options to be listed under amenities instead of as its own section.
 
-Reviewer 2:
+<img src="images/reviewer2.jpg" width="300" />
+
+Reviewer 2: "The website looks legit but it would be cool if there was a way to see if the search filter actually applied like a message." 
 
 Reviewer 3:
 
