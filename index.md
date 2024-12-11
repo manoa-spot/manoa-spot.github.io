@@ -78,6 +78,7 @@ Returns spots that match an inputted text to search inquiry, as well as advanced
 ## Manoa Spots Website Reviewers and Feedback
 
 <img src="images/reviewer1.jpeg" width="300" />
+
 Reviewer 1: She stated that she liked the aesthetic and color scheme of the website. She suggested placing the parking options to be listed under amenities instead of as its own section.
 
 Reviewer 2:
