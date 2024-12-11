@@ -75,6 +75,10 @@ Returns spots that match an inputted text to search inquiry, as well as advanced
 
 ## [Milestone 3](https://github.com/orgs/manoa-spots/projects/5)
 
+## Manoa Spots Website Reviewers and Feedback
+
+<img src="images/reviewer1.jpeg" width="500" />
+
 ## User Guide
 1. Begin at the landing page, and either sign up or sign in to access Spots. 
 <p float="left">
