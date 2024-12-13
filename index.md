@@ -85,11 +85,17 @@ Reviewer 1: She stated that she liked the aesthetic and color scheme of the webs
 
 Reviewer 2: "The website looks legit but it would be cool if there was a way to see if the search filter actually applied like a message." 
 
-Reviewer 3:
+<img src="images/reviewer3.png" width="300" />
 
-Reviewer 4:
+Reviewer 3: "I liked how you could see more information for a spot when you click it."
 
-Reviewer 5: 
+<img src="images/reviewer4.png" width="300" />
+
+Reviewer 4: "I would use this."
+
+<img src="images/reviewer5.png" width="300" />
+
+Reviewer 5: "It looks really good!"
 
 ## User Guide
 1. Begin at the landing page, and either sign up or sign in to access Spots. 
