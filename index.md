@@ -10,6 +10,7 @@ layout: default
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Milestone 3](#milestone-3)
+* [Community Feedback](#community-feedback)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 
@@ -75,7 +76,7 @@ Returns spots that match an inputted text to search inquiry, as well as advanced
 
 ## [Milestone 3](https://github.com/orgs/manoa-spots/projects/5)
 
-## Manoa Spots Website Reviewers and Feedback
+## Community Feedback
 
 <img src="images/reviewer1.jpeg" width="300" />
 
@@ -105,12 +106,19 @@ Reviewer 5: "It looks really good!"
   <img src="images/sign-in-page.png" width="350" />
 </p>
 2. Once you're logged in, you can view recommended spots based off your interests and preferences.
-  <img src="images/home-page-2.png" width="350" />
-3. If you have a Spot you'd like to share with the community, navigate to "add spot" and add your spot. 
-<img src="images/add-spot.png" width="350" />
-4. Click on "favorites" to view your favorites.
+  <img src="images/M3_home.png" width="350" />
+3. You can also view and edit your profile to your preferences.
+  <img src="images/M3_editprofile.png" width="350" />
+    <img src="images/M3_profile.png" width="350" />
+4. If you have a Spot you'd like to share with the community, navigate to "add spot" and add your spot. 
+<img src="images/M3_addspot.png" width="350" />
+5. To search for spots, search for one in the search bar. From here you can apply filters to find the perfect one.
+  <img src="images/M3_search.png" width="350" />
+6. Clicking on the Spot will give you more details. You'll also be able to "Check In" to the Spot and see how busy the Spot is.
+  <img src="images/M3_spotpage.png" width="350" />
+6. Click on "favorites" to view your favorites.
 <img src="images/favorite-spots.png" width="350" />
-5. Click on "advanced search" to filter search for specific spots.
+7. Now you have hopefully found your perfect Spot :)
 
 ## Developer Guide
 1. Copy the repo to Github Desktop.
