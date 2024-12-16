@@ -114,7 +114,7 @@ Reviewer 5: "It looks really good!"
 <img src="images/M3_addspot.png" width="350" />
 5. To search for spots, search for one in the search bar. From here you can apply filters to find the perfect one.
   <img src="images/M3_search.png" width="350" />
-6. Clicking on the Spot will give you more details. You'll also be able to "Check In" to the Spot and see how busy the Spot is.
+6. Clicking on the Spot will give you more details. You'll also be able to "Check In" to the Spot and see how busy the Spot is. Clicking on the heart on any Spot card will add it to your favorites.
   <img src="images/M3_spotpage.png" width="350" />
 6. Click on "favorites" to view your favorites.
 <img src="images/favorite-spots.png" width="350" />
