@@ -22,59 +22,12 @@ As college students, we share the struggle of finding a nice spot to study, hang
 
 To use the application, students must create an account and set up their profiles. With these profiles, students can list their major, courses, year, and interests so that it’s easier to find those with similarities. There could also be a friend/following system that will help students to build trust and friendship with one another. Users must use their hawaii.edu email addresses to confirm that they are students at UH for safety concerns. In order to find the optimal study spots, there could be a map of cafe locations, as well as a rating system for each spot that gives the details on volume levels, seating, ambiance, hours, and general ideas of how “study friendly” the areas are.
 
-## Mockup Page Ideas:
-
-* **Profile Page**: Users can input their preferences for study spaces and it can showcase personal history or study stats.
-<img src="images/profilemockup.png" width="500" />
-* **Home/Landing Page**: Overview of trending study spots or recently visited locations based on proximity to the user.
-<img src="images/spotslandingpage.png" width="500" />
-* Map Page: Interactive map to show real-time availability and how far away study locations are from the user.
-<img src="images/spotsmap.png" width="500" />
-* Spot Details: Individual pages for each spot with detailed information (ex. description, photos, reviews, capacity, amenities, noise levels, parking, ect.)
-* Favorites: Users can save their favorite study spots and it can suggest new study spots based on their favorites.
-* New Spot Page: Allow users/vendors to add new spots that they find and input location details.
-
 ## [Milestone 1](https://github.com/orgs/manoa-spots/projects/1)
+For our first Milestone, the Landing Page and Sign In Pages were implemented. General mockups were made of the Favorites and Profile Page here.
 ## [Milestone 2](https://github.com/orgs/manoa-spots/projects/2)
-
-### Landing Page
-
-<img src="images/home-page.png" width="500" />
-
-### Add a Spot Page
-
-users can add their favorite spots onto the app for others to discover with the "add spot" page.
-
-<img src="images/add-spot.png" width="500" />
-
-<img src="images/add-spot-2.png" width="500" />
-
-this updates the spot database and the newly added spots can now be found through searches and on featured spot pages.
-
-<img src="images/home-page-2.png" width="500" />
-
-### Sign-in Page
-
-<img src="images/sign-in-page.png" width="500" />
-
-### Sign-up Page
-
-<img src="images/signup.png" width="500" />
-
-### Profile Page
-
-<img src="images/profile.png" width="500" />
-
-### Search Page
-Returns spots that match an inputted text to search inquiry, as well as advanced search options through filters based on spot amenities.
-
-<img src="images/searchpage.png" width="500" />
-
-### Favorite Spots Page
-
-<img src="images/favoritespage.png" width="500" />
-
+The functionality of Spots significantly improved during this milestone. More data was added to the Spot Cards, and the Advanced Search was set up with filters. The ability to edit your profile was also implemented. 
 ## [Milestone 3](https://github.com/orgs/manoa-spots/projects/5)
+The most progress was made during this Milestone, with more real data as well as individual Spot Cards. The Favorites functionality was set up as well as the Check In function.
 
 ## Community Feedback
 
@@ -114,8 +67,13 @@ Reviewer 5: "It looks really good!"
 <img src="images/M3_addspot.png" width="350" />
 5. To search for spots, search for one in the search bar. From here you can apply filters to find the perfect one.
   <img src="images/M3_search.png" width="350" />
-6. Clicking on the Spot will give you more details. You'll also be able to "Check In" to the Spot and see how busy the Spot is. Clicking on the heart on any Spot card will add it to your favorites.
+6. Clicking on the Spot will give you more details.Clicking on the heart on any Spot card will add it to your favorites.
   <img src="images/M3_spotpage.png" width="350" />
+7. You'll also be able to "Check In" to the Spot and see how busy the Spot is. 
+<p float="left">
+  <img src="images/home-page.png" width="150" />
+  <img src="images/signup.png" width="150" /> 
+</p>
 6. Click on "favorites" to view your favorites.
 <img src="images/favoritespage.png" width="350" />
 7. Now you have hopefully found your perfect Spot :)
