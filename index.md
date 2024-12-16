@@ -72,7 +72,7 @@ Returns spots that match an inputted text to search inquiry, as well as advanced
 
 ### Favorite Spots Page
 
-<img src="images/favorite-spots.png" width="500" />
+<img src="images/favoritespage.png" width="500" />
 
 ## [Milestone 3](https://github.com/orgs/manoa-spots/projects/5)
 
@@ -117,7 +117,7 @@ Reviewer 5: "It looks really good!"
 6. Clicking on the Spot will give you more details. You'll also be able to "Check In" to the Spot and see how busy the Spot is. Clicking on the heart on any Spot card will add it to your favorites.
   <img src="images/M3_spotpage.png" width="350" />
 6. Click on "favorites" to view your favorites.
-<img src="images/favorite-spots.png" width="350" />
+<img src="images/favoritespage.png" width="350" />
 7. Now you have hopefully found your perfect Spot :)
 
 ## Developer Guide
