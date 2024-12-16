@@ -6,12 +6,11 @@ layout: default
 
 * [Overview](#overview)
 * [Approach](#approach)
-* [Mockup Page Ideas](#mockup-page-ideas)
+* [User Guide](#user-guide)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Milestone 3](#milestone-3)
 * [Community Feedback](#community-feedback)
-* [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 
 ## Overview
@@ -21,6 +20,33 @@ As college students, we share the struggle of finding a nice spot to study, hang
 ## Approach
 
 To use the application, students must create an account and set up their profiles. With these profiles, students can list their major, courses, year, and interests so that it’s easier to find those with similarities. There could also be a friend/following system that will help students to build trust and friendship with one another. Users must use their hawaii.edu email addresses to confirm that they are students at UH for safety concerns. In order to find the optimal study spots, there could be a map of cafe locations, as well as a rating system for each spot that gives the details on volume levels, seating, ambiance, hours, and general ideas of how “study friendly” the areas are.
+
+## User Guide
+1. Begin at the landing page, and either sign up or sign in to access Spots. 
+<p float="left">
+  <img src="images/home-page.png" width="300" />
+  <img src="images/signup.png" width="350" /> 
+  <img src="images/sign-in-page.png" width="350" />
+</p>
+2. Once you're logged in, you can view recommended spots based off your interests and preferences.
+  <img src="images/M3_home.png" width="350" />
+3. You can also view and edit your profile to your preferences.
+  <img src="images/M3_editprofile.png" width="350" />
+    <img src="images/M3_profile.png" width="350" />
+4. If you have a Spot you'd like to share with the community, navigate to "add spot" and add your spot. 
+<img src="images/M3_addspot.png" width="350" />
+5. To search for spots, search for one in the search bar. From here you can apply filters to find the perfect one.
+  <img src="images/M3_search.png" width="350" />
+6. Clicking on the Spot will give you more details.Clicking on the heart on any Spot card will add it to your favorites.
+  <img src="images/M3_spotpage.png" width="350" />
+7. You can "Check In" to a Spot to let others know how many others are there. The system will check you out after an hour, but you can also check out manually.
+<p float="left">
+  <img src="images/checkin.png" width="150" />
+  <img src="images/checkout.png" width="150" /> 
+</p>
+6. Click on "favorites" to view your favorites.
+<img src="images/favoritespage.png" width="350" />
+7. Now you have hopefully found your perfect Spot!
 
 ## [Milestone 1](https://github.com/orgs/manoa-spots/projects/1)
 For our first Milestone, the Landing Page and Sign In Pages were implemented. General mockups were made of the Favorites and Profile Page here.
@@ -50,33 +76,6 @@ Reviewer 4: "I would use this."
 <img src="images/reviewer5.png" width="300" />
 
 Reviewer 5: "It looks really good!"
-
-## User Guide
-1. Begin at the landing page, and either sign up or sign in to access Spots. 
-<p float="left">
-  <img src="images/home-page.png" width="300" />
-  <img src="images/signup.png" width="350" /> 
-  <img src="images/sign-in-page.png" width="350" />
-</p>
-2. Once you're logged in, you can view recommended spots based off your interests and preferences.
-  <img src="images/M3_home.png" width="350" />
-3. You can also view and edit your profile to your preferences.
-  <img src="images/M3_editprofile.png" width="350" />
-    <img src="images/M3_profile.png" width="350" />
-4. If you have a Spot you'd like to share with the community, navigate to "add spot" and add your spot. 
-<img src="images/M3_addspot.png" width="350" />
-5. To search for spots, search for one in the search bar. From here you can apply filters to find the perfect one.
-  <img src="images/M3_search.png" width="350" />
-6. Clicking on the Spot will give you more details.Clicking on the heart on any Spot card will add it to your favorites.
-  <img src="images/M3_spotpage.png" width="350" />
-7. You can "Check In" to a Spot to let others know how many others are there. The system will check you out after an hour, but you can also check out manually.
-<p float="left">
-  <img src="images/checkin.png" width="150" />
-  <img src="images/checkout.png" width="150" /> 
-</p>
-6. Click on "favorites" to view your favorites.
-<img src="images/favoritespage.png" width="350" />
-7. Now you have hopefully found your perfect Spot :)
 
 ## Developer Guide
 1. Copy the repo to Github Desktop.
