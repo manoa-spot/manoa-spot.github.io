@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# Manoa Spots
 ## Table of contents
 
 * [Overview](#overview)
