@@ -1,4 +1,4 @@
-name: ci-manoa-spots
+name: manoa-spots
 
 on:
   push:
