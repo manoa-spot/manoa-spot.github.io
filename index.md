@@ -69,10 +69,10 @@ Reviewer 5: "It looks really good!"
   <img src="images/M3_search.png" width="350" />
 6. Clicking on the Spot will give you more details.Clicking on the heart on any Spot card will add it to your favorites.
   <img src="images/M3_spotpage.png" width="350" />
-7. You'll also be able to "Check In" to the Spot and see how busy the Spot is. 
+7. You can "Check In" to a Spot to let others know how many others are there. The system will check you out after an hour, but you can also check out manually.
 <p float="left">
-  <img src="images/home-page.png" width="150" />
-  <img src="images/signup.png" width="150" /> 
+  <img src="images/checkin.png" width="150" />
+  <img src="images/checkout.png" width="150" /> 
 </p>
 6. Click on "favorites" to view your favorites.
 <img src="images/favoritespage.png" width="350" />
