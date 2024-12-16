@@ -4,8 +4,8 @@ layout: default
 
 # Manoa Spots
 
-*[Application Repository](https://github.com/manoa-spots/manoa-spots-app)
-*[Github.io Repository](https://github.com/manoa-spots/manoa-spots.github.io)
+* [Application Repository](https://github.com/manoa-spots/manoa-spots-app)
+* [Github.io Repository](https://github.com/manoa-spots/manoa-spots.github.io)
 
 ## Table of contents
 
